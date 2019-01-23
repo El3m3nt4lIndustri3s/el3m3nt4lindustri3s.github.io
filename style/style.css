@@ -38,3 +38,10 @@ li a:hover:not(.active) {
 .active {
     background-color: purple;
 }
+box {
+  box-sizing: content-box;  
+  width: 300px;
+  height: 100px;
+  padding: 30px;  
+  border: 10px solid blue;
+}
