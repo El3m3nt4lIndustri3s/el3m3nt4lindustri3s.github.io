@@ -1,5 +1,6 @@
+@charset "utf-8";
 body {
-    background-color: #1e80c7;
+    background-color: #001484;
 }
 
 ul {
@@ -45,3 +46,5 @@ box {
   padding: 30px;  
   border: 10px solid blue;
 }
+/* CSS Document */
+
