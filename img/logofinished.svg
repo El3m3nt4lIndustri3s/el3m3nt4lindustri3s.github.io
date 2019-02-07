@@ -15,8 +15,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="logofinished.svg">
+   sodipodi:docname="logofinished.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
      id="defs4790">
     <linearGradient
@@ -38,8 +38,8 @@
          id="stop4723" />
       <stop
          id="stop4725"
-         offset="0.48735008"
-         style="stop-color:#7e00fc;stop-opacity:0.99215686" />
+         offset="0.45456269"
+         style="stop-color:#006cfc;stop-opacity:0.99215686" />
       <stop
          style="stop-color:#fc0000;stop-opacity:0.99004978"
          offset="1"
@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="45.254834"
-     inkscape:cx="12.155368"
-     inkscape:cy="8.3486411"
+     inkscape:cx="8.5203972"
+     inkscape:cy="9.2325246"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
