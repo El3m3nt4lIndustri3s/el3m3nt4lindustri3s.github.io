@@ -45,9 +45,17 @@ box {
   padding: 30px;  
   border: 10px solid blue;
 }
+
 img.logo {
-    width :500px;
+    width: 500px;
 }
+
 img.tmb{
-    width :200px; height :200px;
+    width: 200px;
+    height: 200px;
+}
+
+img.tmbop{
+    width: 90px;
+    hight: 90px;
 }
