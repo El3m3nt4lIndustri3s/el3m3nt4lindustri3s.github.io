@@ -45,6 +45,9 @@ box {
   padding: 30px;  
   border: 10px solid blue;
 }
-img {
+img.logo {
     width :500px;
+}
+img.tmb{
+    width :200px; height :200px;
 }
