@@ -1,5 +1,5 @@
 body {
-    background-color: #1e80c7;
+    background-color: #000;
 }
 
 ul {
@@ -44,4 +44,7 @@ box {
   height: 100px;
   padding: 30px;  
   border: 10px solid blue;
+}
+img {
+    width :500px;
 }
