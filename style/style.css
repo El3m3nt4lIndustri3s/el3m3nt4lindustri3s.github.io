@@ -59,3 +59,8 @@ img.tmbop{
     width: 90px;
     hight: 90px;
 }
+
+h1.title {
+	text-align:center;
+	color: white;
+}
