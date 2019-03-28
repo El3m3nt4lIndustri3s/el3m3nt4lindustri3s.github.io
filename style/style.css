@@ -12,17 +12,19 @@ body {
 body * {
     box-sizing: inherit;
 }
+
 nav {
     background-color: lime;
     padding: 10px;
     text-align: center
 }
 
-nav p{
+nav p {
     background-color: blueviolet;
     padding: 5px;
     margin: 6px;
     border-radius: 100px;
+    color: white;
 }
 
 @media (min-width: 700px) {
@@ -34,3 +36,8 @@ nav p{
     }
 }
 
+section section {
+    background-color: lightgray;
+    margin: 15px;
+    padding: 10px;
+}
