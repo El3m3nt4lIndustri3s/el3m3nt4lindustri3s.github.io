@@ -1,8 +1,8 @@
-header{
+header {
     text-align: center;
 }
 
-section img{
+section img {
     width: 149px;
     height: 149px
 }
@@ -76,4 +76,3 @@ nav p a {
         overflow-y: auto;
     }
 }
-
