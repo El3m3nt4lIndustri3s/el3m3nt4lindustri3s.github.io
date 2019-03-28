@@ -12,5 +12,10 @@ body {
 body * {
     box-sizing: inherit;
 }
+nav {
+    background-color: lime;
+    padding: 10px;
+    text-align: center
+}
 
 
