@@ -25,3 +25,12 @@ nav p{
     border-radius: 100px;
 }
 
+@media (min-width: 700px) {
+    nav {
+        display: flex;
+        flex-direction: row;
+        background-color: red;
+        justify-content: space-between;
+    }
+}
+
