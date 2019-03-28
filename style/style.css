@@ -1,3 +1,8 @@
 img {
     width: 500px;
 }
+body{
+font-family: Roboto;
+margin: 0;
+background-color: #333;
+}
