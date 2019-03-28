@@ -18,4 +18,10 @@ nav {
     text-align: center
 }
 
+nav p{
+    background-color: blueviolet;
+    padding: 5px;
+    margin: 6px;
+    border-radius: 100px;
+}
 
