@@ -1,8 +1,16 @@
 img {
     width: 500px;
 }
-body{
-font-family: Roboto;
-margin: 0;
-background-color: #333;
+
+body {
+    font-family: Roboto;
+    margin: 0;
+    background-color: #333;
+    box-sizing: border-box;
 }
+
+body * {
+    box-sizing: inherit;
+}
+
+
