@@ -2,10 +2,14 @@ header{
     text-align: center;
 }
 
-
+section img{
+    width: 149px;
+    height: 149px
+}
 
 img {
-    width: 500px;
+    width: 100vw;
+    height: 500px;
 }
 
 body {
