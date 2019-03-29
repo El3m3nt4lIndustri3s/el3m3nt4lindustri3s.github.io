@@ -15,7 +15,7 @@ img {
 body {
     font-family: Roboto;
     margin: 0;
-    background-color: #333;
+    background-color:#333;
     box-sizing: border-box;
 }
 
@@ -24,13 +24,13 @@ body * {
 }
 
 nav {
-    background-color: lime;
+    background-color: limegreen;
     padding: 10px;
     text-align: center
 }
 
 nav p {
-    background-color: blueviolet;
+    background-color: black;
     padding: 5px;
     margin: 6px;
     border-radius: 100px;
@@ -40,7 +40,7 @@ nav p {
 
 
 section section {
-    background-color: lightgray;
+    background-color: lightgrey;
     margin: 15px;
     padding: 10px;
 }
@@ -54,11 +54,41 @@ nav p a {
     color: black;
 }
 
+#about-us{
+    background-color: red;
+    color: white;
+}
+
+#news {
+    background-color: red;
+    color: white;
+}
+
+#youtube-videos {
+    background-color: blue;
+    color: white;
+}
+
+#games {
+    background-color: blue;
+    color: white;
+}
+
+#blueprints {
+    background-color: limegreen;
+    color: white;
+}
+
+#contact-us {
+    background-color: limegreen;
+    color: white;
+}
+
 @media (min-width: 700px) {
     nav {
         display: flex;
         flex-direction: row;
-        background-color: red;
+        background-color: blueviolet;
         justify-content: space-between;
     }
 
