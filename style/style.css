@@ -30,11 +30,11 @@ nav {
 }
 
 nav p {
-    background-color: black;
+    background-color: white;
     padding: 5px;
     margin: 6px;
     border-radius: 100px;
-    color: white;
+    color: red;
 }
 
 
