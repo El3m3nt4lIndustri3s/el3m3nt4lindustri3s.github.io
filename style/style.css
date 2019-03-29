@@ -51,44 +51,31 @@ h1 {
 
 nav p a {
     text-decoration: none;
-    color: black;
+    color: blue;
 }
 
-#about-us{
-    background-color: red;
+#about-us, #news{
+    background-color: darkred;
     color: white;
 }
 
-#news {
-    background-color: red;
+#youtube-videos, #games{
+    background-color: darkblue;
     color: white;
 }
 
-#youtube-videos {
-    background-color: blue;
+
+#blueprints, #contact-us{
+    background-color: green;
     color: white;
 }
 
-#games {
-    background-color: blue;
-    color: white;
-}
-
-#blueprints {
-    background-color: limegreen;
-    color: white;
-}
-
-#contact-us {
-    background-color: limegreen;
-    color: white;
-}
 
 @media (min-width: 700px) {
     nav {
         display: flex;
         flex-direction: row;
-        background-color: blueviolet;
+        background-color: red;
         justify-content: space-between;
     }
 
