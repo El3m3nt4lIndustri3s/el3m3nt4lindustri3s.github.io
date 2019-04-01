@@ -8,7 +8,7 @@ section img {
 }
 
 img {
-    height: 500px;
+    height: 300px;
 }
 
 body {
@@ -78,10 +78,13 @@ nav p a {
     nav {
         display: flex;
         flex-direction: row;
-        background-color: red;
+        background-color: black;
         justify-content: space-between;
     }
-
+    img{
+        height: 500px;
+    }
+    }
     body > section {
         display: grid;
         grid-auto-flow: row;
