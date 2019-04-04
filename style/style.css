@@ -1,3 +1,8 @@
+nav p:hover {
+    color: white;
+    background-color: black;
+    border-radius: 0px;
+}
 header {
     text-align: center;
 }
@@ -28,8 +33,9 @@ nav {
     text-align: center;
 }
 
-nav p {
+nav p{
     background-color: white;
+    transition: 1.5s;
     padding: 5px;
     margin: 6px;
     border-radius: 100px;
