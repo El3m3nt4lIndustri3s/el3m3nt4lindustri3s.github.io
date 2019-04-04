@@ -84,7 +84,6 @@ nav p a {
     img{
         height: 500px;
     }
-    }
     body > section {
         display: grid;
         grid-auto-flow: row;
