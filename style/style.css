@@ -7,11 +7,11 @@ a.small{
 }
 
 a.small:hover{
-    color: black;
+    color: limegreen;
     border-radius: 0px;
     padding: 5px;
     margin: 6px;
-    background-color: lightgrey;
+    background-color: grey;
     transition: 1.5s;
 }
 
