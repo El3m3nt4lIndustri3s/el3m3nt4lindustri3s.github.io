@@ -16,8 +16,8 @@ a.small:hover{
 }
 
 nav p:hover {
-    color: white;
-    background-color: black;
+    color: limegreen;
+    background-color: grey;
     border-radius: 0px;
 }
 header {
