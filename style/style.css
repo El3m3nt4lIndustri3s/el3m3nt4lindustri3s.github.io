@@ -1,4 +1,4 @@
-a.small{
+a.small {
     color: #333;
     font-size: -2;
     border-radius: 100px;
@@ -6,7 +6,7 @@ a.small{
     margin: 6px;
 }
 
-a.small:hover{
+a.small:hover {
     color: limegreen;
     border-radius: 0px;
     padding: 5px;
@@ -20,6 +20,7 @@ nav p:hover {
     background-color: grey;
     border-radius: 0px;
 }
+
 header {
     text-align: center;
 }
@@ -28,11 +29,13 @@ section img {
     width: 149px;
     height: 149px
 }
-img:hover{
--moz-box-shadow: -1px 0px 7px 9px rgba(0,0,0,0.75);
-box-shadow: -1px 0px 7px 9px rgba(0,0,0,0.75);
+
+img:hover {
+    -moz-box-shadow: -1px 0px 7px 9px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 0px 7px 9px rgba(0, 0, 0, 0.75);
     border-radius: 100px;
 }
+
 img {
     height: 300px;
     transition: 1.5s;
@@ -55,7 +58,7 @@ nav {
     text-align: center;
 }
 
-nav p{
+nav p {
     background-color: white;
     transition: 1.5s;
     padding: 5px;
@@ -109,9 +112,11 @@ nav p a {
         background-color: black;
         justify-content: space-between;
     }
-    img{
+
+    img {
         height: 500px;
     }
+
     body > section {
         display: grid;
         grid-auto-flow: row;
