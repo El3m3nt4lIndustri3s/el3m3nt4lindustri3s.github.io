@@ -28,9 +28,14 @@ section img {
     width: 149px;
     height: 149px
 }
-
+img:hover{
+-moz-box-shadow: -1px 0px 7px 9px rgba(0,0,0,0.75);
+box-shadow: -1px 0px 7px 9px rgba(0,0,0,0.75);
+    border-radius: 100px;
+}
 img {
     height: 300px;
+    transition: 1.5s;
 }
 
 body {
