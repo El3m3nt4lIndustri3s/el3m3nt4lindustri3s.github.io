@@ -32,7 +32,7 @@ header img {
 }
 
 header img:active{
-    transform: rotateY(920deg);
+    transform: rotateY(1080deg);
 }
 
 section img {
