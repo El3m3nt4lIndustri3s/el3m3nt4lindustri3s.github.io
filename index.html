@@ -9,26 +9,7 @@
     <meta name="author" content="Oliver, Joseph, Ethan">
     <meta name="description" content="A great and very cool website.">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <script>
-        fetch('https://api.github.com/repos/El3m3nt4lIndustri3s/el3m3nt4lindustri3s.github.io/commits')
-            .then(res => res.json())
-            .then(out => {
-                var commit = out[0].commit;
-                var commit_msg = commit.message;
-                console.log('Output: ', commit);
-                document.getElementById("commit-last").innerHTML = commit_msg;
-            }).catch(err => console.error(err));
-
-    </script>
-    <script>
-        fetch('https://api.github.com/repos/El3m3nt4lIndustri3s/Marvel-Text-based-game/commits')
-            .then(res => res.json())
-            .then(out => {
-                var commit = out[0].commit;
-                var commit_msg = commit.message;
-                console.log('Output: ', commit);
-                document.getElementById("dcommit-lastt").innerHTML = commit_msg;
-            }).catch(err => console.error(err));
+    <script src="script.js">
 
     </script>
 </head>
@@ -48,9 +29,9 @@
         </a>
 
         <p id="commit-last">Last commit on website repo.</p>
-        
-        <p id="dcommit-lastt">Last c ommit on game repo</p>
-        
+
+        <p id="dcommit-lastt">Last commit on game repo</p>
+
     </nav>
     <header>
         <h1>Elemental Industries</h1>
@@ -102,8 +83,8 @@
             <h2>Games</h2>
             <figure>
                 <a href="https://github.com/El3m3nt4lIndustri3s/Marvel-Text-based-game">
-                <img src="img/MTBG.fw.png">
-                <figcaption>Marvel Text Based Game.</figcaption>
+                    <img src="img/MTBG.fw.png">
+                    <figcaption>Marvel Text Based Game.</figcaption>
                 </a>
             </figure>
             <figure>
