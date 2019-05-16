@@ -114,7 +114,9 @@ section section {
 h1 {
     color: white;
 }
-
+figure a{
+    color: white;
+}
 nav p a {
     text-decoration: none;
     color: blueviolet;
