@@ -11,3 +11,7 @@ function commit_msg(repo, id) {
 }
 commit_msg("el3m3nt4lindustri3s.github.io", "commit-last");
 commit_msg("Marvel-Text-based-game", "dcommit-lastt");
+
+function on_logo_click() {
+    console.log("#Flywheel master race")
+}
