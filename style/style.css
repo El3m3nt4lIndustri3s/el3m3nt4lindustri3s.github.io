@@ -60,7 +60,6 @@ section img:hover {
 }
 
 img {
-    height: 300px;
     transition: 1.5s;
 }
 img.click{
@@ -80,6 +79,7 @@ body {
     margin: 0;
     background-color: #333;
     box-sizing: border-box;
+    overflow: hidden;
 }
 
 body * {
@@ -142,6 +142,11 @@ nav p a {
 }
 
 
+img {
+    width: 80vw;
+}
+
+
 @media (min-width: 700px) {
     nav {
         display: flex;
@@ -150,9 +155,6 @@ nav p a {
         justify-content: space-between;
     }
 
-    img {
-        height: 500px;
-    }
 
     body > section {
         display: grid;
