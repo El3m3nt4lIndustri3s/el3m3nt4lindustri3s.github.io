@@ -79,7 +79,7 @@ body {
     margin: 0;
     background-color: #333;
     box-sizing: border-box;
-    overflow: hidden;
+    overflow-x: none;
 }
 
 body * {
