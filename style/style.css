@@ -11,13 +11,13 @@ a.small:hover {
     border-radius: 0px;
     padding: 5px;
     margin: 6px;
-    background-color: grey;
+    background-color: black;
     transition: 1.5s;
 }
 
 nav p:hover {
     color: limegreen;
-    background-color: grey;
+    background-color: purple;
     border-radius: 0px;
 }
 
@@ -77,7 +77,7 @@ box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.75);
 body {
     font-family: Roboto;
     margin: 0;
-    background-color: #333;
+    background-color: ;
     box-sizing: border-box;
 }
 
@@ -103,7 +103,7 @@ nav p {
 
 
 section section {
-    background-color: lightgrey;
+    background-color: lightgray;
     margin: 15px;
     padding: 10px;
     border-radius: 30px;
