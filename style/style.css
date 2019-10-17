@@ -1,5 +1,5 @@
 a.small {
-    color: #333;
+    color: white;
     font-size: -2;
     border-radius: 100px;
     padding: 5px;
@@ -31,7 +31,7 @@ header img {
     transition: 2.0s;
 }
 
-header img:active{
+header img:active {
     transform: rotateY(1080deg);
 }
 
@@ -40,13 +40,13 @@ section img {
     height: 149px
 }
 
-section{
+section {
     perspective: 1350px;
 }
 
 section section:hover {
     transform: rotateX(20deg);
-    box-shadow: 0px 17px 32px -3px rgba(0,0,0,0.75);
+    box-shadow: 0px 17px 32px -3px rgba(0, 0, 0, 0.75);
 }
 
 section section {
@@ -62,22 +62,23 @@ section img:hover {
 img {
     transition: 1.5s;
 }
-img.click{
+
+img.click {
     height: 80%;
     width: 60%;
     border-radius: 0px;
 }
 
-img.click:hover{
+img.click:hover {
     border-radius: 0px;
-    -moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.75);
-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.75);
 }
 
 body {
     font-family: Roboto;
     margin: 0;
-    background-color: ;
+    background-color: #0055EE;
     box-sizing: border-box;
 }
 
@@ -107,15 +108,17 @@ section section {
     margin: 15px;
     padding: 10px;
     border-radius: 30px;
-    
+
 }
 
 h1 {
     color: white;
 }
-figure a{
-    color: white;   
+
+figure a {
+    color: white;
 }
+
 nav p a {
     text-decoration: none;
     color: blueviolet;
@@ -123,13 +126,13 @@ nav p a {
 
 #about-us,
 #news {
-    background-color: darkred;
+    background-color: red;
     color: white;
 }
 
 #youtube-videos,
 #games {
-    background-color: darkblue;
+    background-color: purple;
     color: white;
 }
 
