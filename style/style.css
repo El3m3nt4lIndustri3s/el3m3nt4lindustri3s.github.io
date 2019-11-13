@@ -126,7 +126,7 @@ nav p a {
 
 #about-us,
 #news {
-    background-color: red;
+    background-color: #656565;
     color: white;
 }
 
@@ -143,6 +143,9 @@ nav p a {
     color: white;
 }
 
+#images {
+ background-colour: #656565;   
+}
 
 img {
     width: 80vw;
