@@ -78,7 +78,7 @@ img.click:hover {
 body {
     font-family: Roboto;
     margin: 0;
-    background-color: #0055EE;
+    background-color: #252525;
     box-sizing: border-box;
 }
 
@@ -139,7 +139,7 @@ nav p a {
 
 #blueprints,
 #contact-us {
-    background-color: green;
+    background-color: #a1a1a1;
     color: white;
 }
 
