@@ -107,6 +107,10 @@ nav p {
     color: white;
 }
 
+nav a {
+    text-decoration: none;
+}
+
 
 
 section section {
