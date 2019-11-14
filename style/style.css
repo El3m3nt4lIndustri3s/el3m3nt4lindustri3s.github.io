@@ -1,5 +1,11 @@
+div.rickwrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 a.small {
-    color: white;
+    color: #252525;
     font-size: -2;
     border-radius: 100px;
     padding: 5px;
@@ -7,17 +13,17 @@ a.small {
 }
 
 a.small:hover {
-    color: limegreen;
+    color: black;
     border-radius: 0px;
     padding: 5px;
     margin: 6px;
-    background-color: black;
+    background-color: #252525;
     transition: 1.5s;
 }
 
 nav p:hover {
-    color: limegreen;
-    background-color: purple;
+    color: black;
+    background-color: white;
     border-radius: 0px;
 }
 
@@ -45,7 +51,7 @@ section {
 }
 
 section section:hover {
-    transform: rotateX(20deg);
+    transform: rotateX(10deg);
     box-shadow: 0px 17px 32px -3px rgba(0, 0, 0, 0.75);
 }
 
@@ -87,18 +93,18 @@ body * {
 }
 
 nav {
-    background-color: limegreen;
+    background-color: black;
     padding: 10px;
     text-align: center;
 }
 
 nav p {
-    background-color: white;
+    background-color: black;
     transition: 1.5s;
     padding: 5px;
     margin: 6px;
     border-radius: 100px;
-    color: red;
+    color: white;
 }
 
 
