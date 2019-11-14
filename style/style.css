@@ -144,7 +144,8 @@ nav p a {
 }
 
 #images {
-    background-color: #656565;   
+    background-color: #656565;
+    color: white;
 }
 
 img {
