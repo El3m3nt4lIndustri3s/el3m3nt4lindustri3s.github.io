@@ -143,6 +143,9 @@ nav p a {
     color: white;
 }
 
+header a img {
+    width: 3%;
+}
 
 img {
     width: 80vw;
