@@ -144,7 +144,7 @@ nav p a {
 }
 
 header a img {
-    width: 3%;
+    width: 4%;
 }
 
 img {
@@ -174,4 +174,7 @@ img {
         height: 50vh;
         overflow-y: auto;
     }
-}
+
+    
+    }
+
