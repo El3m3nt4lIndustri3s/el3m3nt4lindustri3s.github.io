@@ -11,7 +11,23 @@ a.small {
     padding: 5px;
     margin: 6px;
 }
+#ads {
+    background-color: lightgray;
+    margin: 1px;
+    padding: 12px;
+    border-radius: 10px;position: sticky;
+    bottom: 0;
+    top: 0;
+    align-content: center;
 
+
+}
+#ads img {
+    width: 550px;
+    
+}
+
+}
 a.small:hover {
     color: black;
     border-radius: 0px;
@@ -138,7 +154,8 @@ nav p a {
 #games,
 #blueprints,
 #contact-us,
-#images {
+#images,
+#ads {
     background-color: #656565;
     color: white;
 }
