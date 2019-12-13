@@ -15,7 +15,8 @@ a.small {
     background-color: lightgray;
     margin: 1px;
     padding: 12px;
-    border-radius: 10px;position: sticky;
+    border-radius: 10px;
+    position: sticky;
     bottom: 0;
     top: 0;
     align-content: center;
