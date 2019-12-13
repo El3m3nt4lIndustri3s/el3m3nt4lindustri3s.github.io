@@ -11,7 +11,7 @@ a.small {
     padding: 5px;
     margin: 6px;
 }
-div.ad section {
+#ads {
     background-color: lightgray;
     margin: 1px;
     padding: 12px;
@@ -22,7 +22,7 @@ div.ad section {
 
 
 }
-div.ad section img {
+#ads img {
     width: 550px;
     
 }
