@@ -15,3 +15,7 @@ commit_msg("Marvel-Text-based-game", "dcommit-lastt");
 function on_logo_click() {
     console.log("#Flywheel master race")
 }
+
+function on_cookie_click() {
+   document.getElementById("cookies").style.display = "none"; 
+}

@@ -43,6 +43,18 @@ nav p:hover {
     border-radius: 0px;
 }
 
+#cookies {
+    position: fixed;
+    background-color: lightgray;
+    margin: 1px;
+    padding: 12px;
+    border-radius: 10px;
+    bottom: 0;
+    align-content: center;
+    display: block;
+    z-index: 20;
+}
+
 header {
     text-align: center;
     perspective: 800px;
