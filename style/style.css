@@ -55,6 +55,19 @@ nav p:hover {
     z-index: 20;
 }
 
+#beenus {
+    color: white;
+    background-image: url(../img/Beenus.svg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#beenus a {
+    text-decoration: none;
+    color: black;
+}
+
 header {
     text-align: center;
     perspective: 800px;
